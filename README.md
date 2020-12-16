@@ -9,7 +9,7 @@
 5 [RailFence](src/main/java/com/cipher/ciphertechniques/RailFence.java)   
 6 [RowColumn](src/main/java/com/cipher/ciphertechniques/RowColumn.java)   
 7 [DES](src/main/java/com/cipher/ciphertechniques/DES.java)   
-8 [AES](src/main/java/com/cipher/ciphertechniques/AES)   
+8 [AES](src/main/java/com/cipher/ciphertechniques/AES/AES.java)   
 9 [RSA](src/main/java/com/cipher/ciphertechniques/RSA.java)   
 10 [DiffieHellman](src/main/java/com/cipher/ciphertechniques/DiffieHellman.java)   
 11 [SHA1](src/main/java/com/cipher/ciphertechniques/sha1.java)  
